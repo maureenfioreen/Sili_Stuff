@@ -1,2 +1,2 @@
-tictactoe: 
-	g++ -o ttt main.cpp 
+connectFour connect: 
+	g++ -o connectFour main.cpp 
